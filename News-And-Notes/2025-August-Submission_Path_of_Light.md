@@ -1,15 +1,7 @@
-Title: Path of Light
-Category: News and Notes Submission
-Date: August 2025
-Tags: poem, healing, spiritual, inclusive, elder community
-Author: Richard Silverman
-
----
-
-Path of Light  
+# Path of Light  
 *For the healing of body, mind, and all creation*  
 
-Dear Source of All That Is and Yet to Be,  
+**Dear Source of All That Is and Yet to Be,**  
 You are the path through shadow into knowing.  
 Shine now within this body made of dust and breath—  
 Illuminate each cell with quiet strength,  
@@ -40,5 +32,13 @@ A vessel of the greater flame,
 A traveler not apart,  
 But held within the vast embrace of Love.
 
-In peace and light,  
-Richard
+  
+**In peace and light,**  
+**Richard**
+
+---
+
+**Metadata**  
+- **Category:** News and Notes Submission  
+- **Date:** August 2025  
+- **Tags:** poem, healing, spiritual, inclusive, elder community
